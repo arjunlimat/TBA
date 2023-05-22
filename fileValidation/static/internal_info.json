@@ -1,0 +1,1484 @@
+{
+    "9999": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9998": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1479": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "9282": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSNTaxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "175": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "186": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSN Unmask",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "245": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "285": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "398": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "472": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "567": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "632": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "657": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "695": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "726": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "749": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "892": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "936": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "982": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "990": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "994": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1040": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1141": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1165": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 10,
+        "par_nm": "P6727I00"
+    },
+    "1215": {
+        "process_name": "HRIS",
+        "inquiry_name": "UnMasked SSN",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "1250": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1340": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1362": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "1366": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1377": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "1426": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1442": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 5649,
+        "par_nm": "P6727I00"
+    },
+    "1488": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1638": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 63950,
+        "par_nm": "P6727I00"
+    },
+    "1645": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1656": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1694": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1697": {
+        "process_name": "HRIS",
+        "inquiry_name": "CM-Unmasked SSN/Taxpayer ID",
+        "panel_id": 749294,
+        "par_nm": "P6727I00"
+    },
+    "1698": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1725": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1808": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1881": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1909": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1924": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1931": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "1971": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2292": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2346": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2358": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2378": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2461": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2490": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2524": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "2525": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2789": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2802": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2840": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "3099": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 9817,
+        "par_nm": "P6727I00"
+    },
+    "3177": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3223": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "3349": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3356": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3377": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3537": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3742": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3843": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3860": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3902": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3955": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3974": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3979": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3999": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "4269": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "4508": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "4665": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "4693": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5094": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSN Unmasked",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "5888": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "5911": {
+        "process_name": "HRIS",
+        "inquiry_name": "Missng ppt data",
+        "panel_id": 2832,
+        "par_nm": "P3736I00"
+    },
+    "5923": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 3262,
+        "par_nm": "P6727I00"
+    },
+    "5977": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 3865,
+        "par_nm": "P6727I00"
+    },
+    "5980": {
+        "process_name": "HRIS",
+        "inquiry_name": "UNMASKED SSN/TAXPAYER ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6487": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6597": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "6607": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6654": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6678": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6773": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6957": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "7263": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "7367": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "7538": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "7544": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "7796": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "8041": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "8086": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "8101": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "8141": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "8394": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "8478": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "8666": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 10428,
+        "par_nm": "P6727I00"
+    },
+    "8853": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9086": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9571": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9813": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 745857,
+        "par_nm": "P6727I00"
+    },
+    "9852": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9950": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 3262,
+        "par_nm": "P6727I00"
+    },
+    "10021": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "10162": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "10197": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "14671": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16334": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16418": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16528": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16553": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16557": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2491": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "1995": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16452": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2961": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "7961": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2215":{
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+        },
+    "3239": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "10272": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "12467": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6223": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "15050": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1433": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3060": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "10840": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "10801": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "8397": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9252": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1634": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "8921": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1122": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "34153": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16453": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16516": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6028": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9159": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9264": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5317": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2936": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "14583": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6749": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5551": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16512": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16465": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2553": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1955": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "13074": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1211": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16566": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16502": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "4471": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1651": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16540": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2799": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5035": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "10611": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3326": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16565": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5063": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "10825": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3344": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5077": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3266": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2729": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1892": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1874": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "4739": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2484": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "11899": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16449": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16500": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "575": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6404": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9796": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2635": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5987": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2878": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16469": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "7265": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "12868": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3102": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "10652": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1274": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "13043": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "14086": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "14829": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1592": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16526": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2695": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3518": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3683": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "4059": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5102": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5106": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "729": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "7687": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9447": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5040": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2274": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "1576": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2017": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16578": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16484": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1323": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16701": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16707": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16716": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 63950,
+        "par_nm": "P6727I00"
+    },
+    "16717": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 63950,
+        "par_nm": "P6727I00"
+    },
+    "16731": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "4533": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "620": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "4881": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2233": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSNTaxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1700": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "6352": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "707": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3501": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "7349": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "4496": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "5434": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "7825": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "1711": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1283": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSNTaxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "2496": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "8353": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3207": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9301": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "3687": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "10820": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSNTaxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "15757": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSNTaxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "4047": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    },
+    "5790": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "8673": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9065": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16581": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSNTaxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16433": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16611": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16711": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "1092": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSNTaxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "10557": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "16551": {
+        "process_name": "HRIS",
+        "inquiry_name": "Unmasked SSN/Taxpayer ID",
+        "panel_id": 11610,
+        "par_nm": "P6727I00"
+    },
+    "9444": {
+        "process_name": "HRIS",
+        "inquiry_name": "SSNUnMaskedData",
+        "panel_id": 6727,
+        "par_nm": "P6727I00"
+    }
+}
