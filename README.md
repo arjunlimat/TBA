@@ -1,12 +1,14 @@
 # Project Name
-Project Description: This Django project is deployed on the AWS cloud and performs matching and mismatch analysis on participant values. It fetches data from both a file and an API to compare and analyze the values.
+Project Description: This project  developed on Django and deployed on the AWS cloud and performs matching and mismatch analysis on participant values. It fetches data from both a file and an API to compare and analyze the values.
 
 ## Features
 
-- Fetches participant values from a file and an API.
+- Read participant values from a file and make an API call.
+- Compare different values from file with API response
 - Performs matching and mismatch analysis on the fetched values.
 - Generates reports or visualizations based on the analysis results.
 - Provides a GUI/API for interacting with the project and accessing the analysis results.
+- Test cases written inside file Validation/test.py
 
 ## Technologies Used
 
